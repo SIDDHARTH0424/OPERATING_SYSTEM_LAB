@@ -101,11 +101,6 @@ Feel free to open issues or submit pull requests to improve the code or add more
 
 ## ✍️ Author
 
-Developed by **[Your Name]**  
+Developed by **Siddharth Pimpalkar**  
 For academic use and learning purposes.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
