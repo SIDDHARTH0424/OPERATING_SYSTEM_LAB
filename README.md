@@ -87,12 +87,6 @@ Each folder contains the corresponding `.c` or `.cpp` programs.
 
 ---
 
-## 📸 Sample
-
-*(Optional: Add terminal outputs or screenshots here for clarity)*
-
----
-
 ## 🤝 Contribution
 
 Feel free to open issues or submit pull requests to improve the code or add more examples!
